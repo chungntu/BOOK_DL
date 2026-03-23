@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "C:\\Program Files\\Python312\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Dell Precision 7810\\AppData\\Roaming\\Python\\Python312\\site-packages"
+    ]
+}
